@@ -1,0 +1,90 @@
+body{
+  color: #40514E
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, serif;
+  font-size:2em;
+}
+h1{
+  font-size:90px;
+  margin-top:50px;
+  font-family: Sacramento, cursive;
+}
+h2{
+   color: #66BFBF;
+   font-family: Montserrat, sans-serif;
+   font-size:2.5em;
+   font-weight: normal;
+   padding-bottom:10px;
+}
+div{
+  background-color:#E4F9F5;
+}
+.hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom:none;
+  width: 4%;
+  margin: 100px auto;
+}
+.a{
+  color: #11999E;
+  font-family:Montserrat, sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size:0.75em;
+}
+
+.top{
+  background-color:orange;
+  position: relative;
+  padding:100px;
+}
+.middle-container{
+  margin:100px 0;
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+  padding: 50px 0 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100 auto 100 auto;
+  text-align: left;
+  line-height:2;
+}
+.engineer{
+  text-decoration: underline;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:40px;
+}
+.bottom-cloud {
+  position: absolute
+  left:250px;
+  bottom:300px;
+}
